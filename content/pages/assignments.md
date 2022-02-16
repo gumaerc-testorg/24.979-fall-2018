@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Sample Assignment
 uid: 6037ce39-05a3-de65-3985-3a502085c8c0
 ---
@@ -17,8 +20,8 @@ c. Almost no student smiled.
 
 (ii) Consider finally the LFs in (2). Is _a boy_ dominated by a constituent that is SER with respect to it in these structures? (Please provide arguments for your answers.)
 
-(2) a. \[neg \[\[a boy\] \[λx_(et)t_ \[\[exactly 2 books\] \[λz_e_ \[x read z\]\]\]\]\]\]  
-b. \[neg \[\[a boy\] \[λx_e_ \[\[exactly 2 books\] \[λz_e_ \[x read z\]\]\]\]\]\]  
+(2) a. \[neg \[\[a boy\] \[λx_{{< sub "(et)t" >}}_ \[\[exactly 2 books\] \[λz_e_ \[x read z\]\]\]\]\]\]  
+b. \[neg \[\[a boy\] \[λx_{{< sub "e" >}}_ \[\[exactly 2 books\] \[λz_e_ \[x read z\]\]\]\]\]\]  
 c. \[\[a boy\] \[λx_e_ \[neg \[\[exactly 2 books\] \[λz_e_ \[x read z\]\]\]\]\]\]
 
 (iii) Assume that connected exceptive _but John_ has the meaning in (3) (cf. von Fintel 1993, Sect. 1.8).
@@ -47,7 +50,7 @@ b. Fewer than 10 students surrounded the fort
 
 (ii) What happens if we repace Buccola & Spector’s notion of maximal informativity with the perhaps more standard one in (8) (cf. Fox & Hackl 2006)?
 
-(8) max_i_(w)(D)(d) = 1 iff D(w)(d) ∧ ∀d’(D(w)(d’) → (λw.D(w)(d) ⇒ λw.D(w)(d’)))
+(8) max{{< sub "_i_" >}}(w)(D)(d) = 1 iff D(w)(d) ∧ ∀d’(D(w)(d’) → (λw.D(w)(d) ⇒ λw.D(w)(d’)))
 
 (Provide the computations of the truth-conditions in support of your answers, and consider in particular what is predicted about the acceptability of any in such sentences.)
 
