@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Links to pdfs for the course''s lecture notes. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ Lectures
 Introduction: Environments, operators, and the Condition
 {{< tdclose >}}
 {{< tdopen >}}
-[Entailment, entailment-reversal, non-monotonicity, negated DPs (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec1)
+{{% resource_link 3aa3e654-11a4-c2c3-f46a-2f2dc8c7d03f "Entailment, entailment-reversal, non-monotonicity, negated DPs (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Introduction: Environments, operators, and the Condition
 Environments and modified numeral quantifiers
 {{< tdclose >}}
 {{< tdopen >}}
-[Modified numeral quantifiers with distributive vs. collective predicates, maximal informativity, preview of the explanation (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec3)
+{{% resource_link d507be6d-76b7-d742-89cd-0bf266e443b9 "Modified numeral quantifiers with distributive vs. collective predicates, maximal informativity, preview of the explanation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ Environments and modified numeral quantifiers
 Strawson entailment and definite descriptions
 {{< tdclose >}}
 {{< tdopen >}}
-[Strawson entailment, _surprise_, _only_, singular definite descriptions (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec4)
+{{% resource_link 1f2f3d77-8bea-8c3f-a8f0-e133450ac205 "Strawson entailment, _surprise_, _only_, singular definite descriptions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Strawson entailment and definite descriptions
 Strawson entailment and definite descriptions, cont'd
 {{< tdclose >}}
 {{< tdopen >}}
-[Extension of the entailment relation, decomposing definites, partitives, distributivity operator (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec5)
+{{% resource_link fe9d5476-c287-52bd-03c1-9bd0e0661c69 "Extension of the entailment relation, decomposing definites, partitives, distributivity operator (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Strawson entailment and definite descriptions, cont'd
 Strawson entailment and definite descriptions, cont'd
 {{< tdclose >}}
 {{< tdopen >}}
-[Conjunction, type-shifting, event semantics, thematic roles, exhaustivity (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec6)
+{{% resource_link 1c66b94d-46b7-52b1-b5f4-484e7ee83721 "Conjunction, type-shifting, event semantics, thematic roles, exhaustivity (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Strawson entailment and definite descriptions, cont'd
 Modality, free choice, and exhaustification
 {{< tdclose >}}
 {{< tdopen >}}
-[Existential modals, exhaustification, revision of the Condition (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec7)
+{{% resource_link 306b1103-3187-c38c-5f05-6c2b6ff33700 "Existential modals, exhaustification, revision of the Condition (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ Modality, free choice, and exhaustification
 Modality, free choice, and exhaustification, cont'd
 {{< tdclose >}}
 {{< tdopen >}}
-[Existence presupposition, constraints and requirements on pruning (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec8)
+{{% resource_link c9dfed10-95c3-326b-1dbb-90327cfed120 "Existence presupposition, constraints and requirements on pruning (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Modality, free choice, and exhaustification, cont'd
 Modality, free choice, and exhaustification, cont'd
 {{< tdclose >}}
 {{< tdopen >}}
-[Exceptives, approximatives, reconstruction, universal modals, mass vs. count nouns (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec9)
+{{% resource_link bdc1ffa7-a173-9e5f-fa30-eca024aac8be "Exceptives, approximatives, reconstruction, universal modals, mass vs. count nouns (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Modality, free choice, and exhaustification, cont'd
 Towards an explanation
 {{< tdclose >}}
 {{< tdopen >}}
-[Other modal environments, Hindi NPIs, probability, and explanation (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec10)
+{{% resource_link 800bba24-632c-35c6-7c50-352c42efb523 "Other modal environments, Hindi NPIs, probability, and explanation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ Towards an explanation
 Non-monotonicity and some challenges
 {{< tdclose >}}
 {{< tdopen >}}
-[Additivity, singular definites, accommodation, non-monotone quantifiers, desire predicates (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec11)
+{{% resource_link a32a8615-6f45-26ca-a780-b67d74b25747 "Additivity, singular definites, accommodation, non-monotone quantifiers, desire predicates (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ Non-monotonicity and some challenges
 Non-monotonicity and some challenges, cont'd
 {{< tdclose >}}
 {{< tdopen >}}
-[Intervention, minimizers, and variation (PDF)]({{< baseurl >}}/resources/mit24_979f18_lec12)
+{{% resource_link e8285b03-7c0c-dfc4-fbed-573248629480 "Intervention, minimizers, and variation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
