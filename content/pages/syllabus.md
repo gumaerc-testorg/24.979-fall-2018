@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The basic description of the course and the topics it touched on.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8fd87c40-1fdb-3a3a-9c48-a7ebbabccd98
 ---
